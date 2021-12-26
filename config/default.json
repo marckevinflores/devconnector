@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://mkf-dc:mkf-dc@devconnector.hmvhr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongoURIOffline": "mongodb://localhost:27017/dc",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "550309e411c6a21d1a53",
+    "githubSecret": "4d74a8d1d43bdae6835c42a37baf59ff7a3a964c"
+}
